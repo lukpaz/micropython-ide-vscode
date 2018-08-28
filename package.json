@@ -4,6 +4,7 @@
     "description": "Micropython integrated development",
     "version": "0.0.1",
     "icon": "images/icon.png",
+    "license": "Apache-2.0",
     "publisher": "dphans",
     "engines": {
         "vscode": "^1.21.0"
